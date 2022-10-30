@@ -6,17 +6,17 @@ import fs from 'fs'
 
 //cambia los números que sean propietarios 
 global.owner = [
-  ['593959425714', '🔰  †𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤ - Creador 🔰', true],
-  ['51993138466', '🔰  †𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤ - Collaborator 1 🔰', true],
-  ['573184314110', '🔰  †𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤- Collaborator 3 🔰', true],
-  ['50246028932', '🔰  †𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤ -  Col𝚊𝚋𝚘𝚛𝚊𝚍𝚘𝚛  4 🔰', true],
-  ['51928078536', '🔰  †𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤ - Col𝚊𝚋𝚘𝚛𝚊𝚍𝚘𝚛𝚊 5 🔰', true],
-  ['51936767238'],
-  ['584125778026']
+  ['', '🔰  🍁𝐌𝐈𝐊𝐄𝐑-𝐁𝐎𝐓🍁- Creador 🔰 524531106422', true],
+  ['', '🔰 🍁𝐌𝐈𝐊𝐄𝐑-𝐁𝐎𝐓🍁 - Collaborator 1 🔰', true],
+  ['', '🔰 🍁𝐌𝐈𝐊𝐄𝐑-𝐁𝐎𝐓🍁 - Collaborator 3 🔰', true],
+  ['', '🔰  🍁𝐌𝐈𝐊𝐄𝐑-𝐁𝐎𝐓🍁-  Col𝚊𝚋𝚘𝚛𝚊𝚍𝚘𝚛  4 🔰', true],
+  ['', '🔰  🍁𝐌𝐈𝐊𝐄𝐑-𝐁𝐎𝐓🍁- Col𝚊𝚋𝚘𝚛𝚊𝚍𝚘𝚛𝚊 5 🔰', true],
+  [''],
+  ['']
 
 ] 
-global.suittag = ['593959425714'] 
-global.mods = ['595986674310'] 
+global.suittag = [''] 
+global.mods = [''] 
 global.prems = [] 
 
 global.APIs = { // API Prefix
@@ -72,31 +72,31 @@ global.APIKeys = { // APIKey Here
 }
 
 /* ______________________________________________ */
-global.creadorname = '𝐃𝐈𝐄𝐆𝐎-𝐎𝐅𝐂'
+global.creadorname = '𝐀𝐋𝐄𝐗𝐈𝐒-𝐓𝐌𝐑'
 global.creatorname = creadorname
-global.library = '𝐁𝐀𝐈𝐋𝐄𝐘𝐒-𝐌𝐃'
+global.library = '𝐓𝐑𝐌'
 global.vs = '1.3.0'
 global.version = vs
 //------------- Sticker WM -----------
 global.packname = '(☞ﾟ∀ﾟ)☞'
-global.author = '†𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤'
-global.wm = '†𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤ | 𝘿𝙄𝙀𝙂𝙊-𝙊𝙁𝘾'
-global.igfg = '†𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤'
+global.author = '🍁𝐌𝐈𝐊𝐄𝐑-𝐁𝐎𝐓🍁'
+global.wm = '🍁𝐌𝐈𝐊𝐄𝐑-𝐁𝐎𝐓🍁 | 𝐀𝐋𝐄𝐗𝐈𝐒-𝐓𝐌𝐑'
+global.igfg = '🍁𝐌𝐈𝐊𝐄𝐑-𝐁𝐎𝐓🍁'
 global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
 //-------------------
-global.md = 'https://chat.whatsapp.com/LlAbJM659dOBVJnxOIMl9h'
-global.dorramd = md
+global.md = 'https://chat.whatsapp.com/Ez9Lz8Q4WCpKg3BBcrnUMP'
+global.dorramd = trm
 
 /* _____________________________________________ */
 
-global.ag = '━━━━━━━ ❎ 𝙰𝙳𝚅𝙴𝚁𝚃𝙴𝙽𝙲𝙸𝙰 | 𝚆𝙰𝚁𝙽𝙸𝙽𝙶 ❎ ━━━━━━━━━'
+global.ag = '━━━━━━━ ❗ 𝙰𝙳𝚅𝙴𝚁𝚃𝙴𝙽𝙲𝙸𝙰 | 𝚆𝙰𝚁𝙽𝙸𝙽𝙶 ❗ ━━━━━━━━━'
 global.advertencia = ag
 global.fg = '☆━━━━ ⚠️ 𝙵𝙰𝙻𝙻𝙾 | 𝙵𝙰𝙻𝙻 ⚠️ ━━━☆'
 global.fallo = fg
-global.mg = '══ ❎ 𝙻𝙾 𝚄𝚂𝙾 𝙼𝙰𝙻 ❎ ══'
+global.mg = '══ ❌ 𝙻𝙾 𝚄𝚂𝙾 𝙼𝙰𝙻 ❌ ══'
 global.mal = mg
-global.dorre = 'DORRAT-BOT-MD'
-global.DORRA = dorre
+global.dorre = 'Miker-BOT-trm'
+global.DORRA = miker
 
 /* Imagenes___________________ */
 global.imagen1 = fs.readFileSync('./Menu2.jpg')
